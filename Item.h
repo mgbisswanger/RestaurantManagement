@@ -13,7 +13,7 @@ public:
 private:
     string name;
     double price;
-    Ingredient* ingredients; // make you a dynamic / elastic array in the future
+    //Ingredient* ingredients; // make you a dynamic / elastic array in the future
 };
 
 #endif

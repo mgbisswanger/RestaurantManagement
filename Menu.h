@@ -5,8 +5,8 @@
 
 class Menu {
     public:
-        Menu(Item items[], int size);
-        ~Menu();
+       // Menu(Item items[], int size);
+        //~Menu();
     private:
         Item* menuItems;
         int size;
